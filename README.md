@@ -1,7 +1,9 @@
-# Basic_aptitude_programming
+# Basic Aptitude Programming
 This is basic aptitude programming question in PHP Scripting language
 
 1. create fibonnaci (coding)
+Output: ![Screenshot (9)](https://user-images.githubusercontent.com/46961710/173292650-370d4365-ef7d-44a3-8d70-8fb9a973e6c9.png)
+
 2. input aaaabbbcccddaa
    output:
    a=4
