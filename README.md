@@ -12,7 +12,7 @@ Output: ![Screenshot (9)](https://user-images.githubusercontent.com/46961710/173
    d=3
    a=2
 Result:
-![Screenshot (12)](https://user-images.githubusercontent.com/46961710/174221476-b4b6dd80-13bf-400c-8dac-d68732d9a222.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/46961710/174221565-8b6f0c75-a454-47df-9262-4ef23e1e33a5.png)
    
 3. buat tampilan menarik
    dari api https://jsonplaceholder.typicode.com/todos
