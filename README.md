@@ -12,8 +12,8 @@ Output: ![Screenshot (9)](https://user-images.githubusercontent.com/46961710/173
    d=3
    a=2
 Result:
-![Screenshot (14)](https://user-images.githubusercontent.com/46961710/174221565-8b6f0c75-a454-47df-9262-4ef23e1e33a5.png)
-   
+   ![Screenshot (15)](https://user-images.githubusercontent.com/46961710/174221716-8dbc12d4-222f-4ce5-be30-2ff6a3ffde04.png)
+
 3. buat tampilan menarik
    dari api https://jsonplaceholder.typicode.com/todos
 4. input 4432211
