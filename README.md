@@ -15,7 +15,7 @@ Result:
    ![Screenshot (15)](https://user-images.githubusercontent.com/46961710/174221716-8dbc12d4-222f-4ce5-be30-2ff6a3ffde04.png)
 
 3. buat tampilan menarik
-   dari api https://jsonplaceholder.typicode.com/photos
+   dari API https://jsonplaceholder.typicode.com/photos
  Result:
  ![Screenshot (16)](https://user-images.githubusercontent.com/46961710/174264394-c4597d88-0cc3-4bed-8591-d05729fd1a40.png)
   
